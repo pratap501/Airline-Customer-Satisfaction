@@ -190,23 +190,12 @@ to interpret both **global** and **local** model behavior.
 
 ---
 
-### 📊 Global Feature Importance
-
-The following plot shows the **overall importance of features** across all predictions.
-Features at the top have the strongest influence on customer satisfaction.
-
-![SHAP Global Importance](reports/shap/shap_bar.png)
-
----
-
 ### 🧠 SHAP Summary Plot
 
 This plot provides a **holistic view** of how feature values impact predictions:
 
 - Color indicates feature value (low → high)
 - Position indicates impact on satisfaction prediction
-
-![SHAP Summary](reports/shap/shap_summary.png)
 
 ---
 
@@ -217,28 +206,20 @@ These plots illustrate **how specific features influence predictions** at differ
 #### 1️⃣ Comfort Score Impact
 Shows how overall seat and comfort-related services affect satisfaction.
 
-![Comfort Score Dependence](reports/shap/dependence_Comfort_Score.png)
-
 ---
 
 #### 2️⃣ Digital Experience Impact
 Represents the influence of online booking, Wi-Fi, and digital services.
-
-![Digital Experience Dependence](reports/shap/dependence_Digital_Experience_Score.png)
 
 ---
 
 #### 3️⃣ Inflight Experience Impact
 Highlights the effect of entertainment, food, and onboard services.
 
-![Inflight Experience Dependence](reports/shap/dependence_Inflight_Experience_Score.png)
-
 ---
 
 #### 4️⃣ Arrival Delay Impact (Log Scale)
 Demonstrates how increasing arrival delays sharply increase dissatisfaction.
-
-![Arrival Delay Dependence](reports/shap/dependence_Log_Arrival_Delay.png)
 
 ---
 
