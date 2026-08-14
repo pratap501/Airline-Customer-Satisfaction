@@ -3,26 +3,10 @@
 
 <p align="center">
   <b>
-    Predict airline customer satisfaction, explain model decisions using SHAP,
-    and deploy predictions via an interactive Streamlit application.
+    Predict airline customer satisfaction, explain model decisions using SHAP.
   </b>
 </p>
 
-<p align="center">
-  <a href="https://airline-customer-satisfaction-python.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-blue?style=for-the-badge">
-  </a>
-</p>
-
-
-<p align="center">
-  <i>
-    ⚠️ Note: The Streamlit app may occasionally go to sleep due to inactivity.
-    If you see a message like <b>"This app has gone to sleep"</b>,
-    simply click <b>"Yes, get this app back up!"</b> to restart it.
-    This is normal behavior on Streamlit Cloud.
-  </i>
-</p>
 
 ---
 
