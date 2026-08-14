@@ -284,7 +284,7 @@ Follow the steps below to set up and run the project on your local machine.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/VenkateshHJoshi/Airline-Customer-Satisfaction.git
+git clone https://github.com/pratap501/Airline-Customer-Satisfaction.git
 cd Airline-Customer-Satisfaction
 ```
 
